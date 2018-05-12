@@ -1,0 +1,30 @@
+_repo: '------_23816'
+_version: 0.1.0
+alternative_title: Zhuzi zhi jia ge yan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhu, Yongchun
+    aliases:
+    - Zhuzi
+    - 朱用純
+    birthdate: 1617
+    deathdate: 1689
+    gutenberg_agent_id: '26048'
+    url: http://www.gutenberg.org/2009/agents/26048
+description: ''
+gutenberg_issued: '2007-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23816'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics -- China'
+- !lcc 'BJ'
+title: 朱子治家格言
+url: http://www.gutenberg.org/ebooks/23816
